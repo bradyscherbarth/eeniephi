@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://guphohkuph.jianghao.pro/sitemap.xml
